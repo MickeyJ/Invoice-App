@@ -1,0 +1,19 @@
+html,
+body,
+#all-wrap{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+
+:root{
+  font-family: $open;
+  font-size: 19px;
+}
+
+
+.aid{
+  border: 1px dashed blue;
+}

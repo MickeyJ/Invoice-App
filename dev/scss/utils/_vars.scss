@@ -1,0 +1,5 @@
+@mixin makeRow($boxCount, $margin){
+  width: calc(100% / #{$boxCount} - #{$margin});
+}
+
+$open: Open, sans-serif;

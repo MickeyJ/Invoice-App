@@ -1,0 +1,56 @@
+
+html, body, main, section, div, article, form, figure, header,
+footer, input, textarea, button, ul, ol, li, a, p, span, h1,
+h2, h3, h4, h5, h6{
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline;
+}
+
+
+h1{
+  font-size: 2.0em;
+}
+
+h2{
+  font-size: 1.5em;
+  font-weight: 500;
+}
+
+h3{
+  font-size: 1.4em;
+  font-weight: 500;
+}
+
+h4{
+  font-size: 1.3em;
+  font-weight: 500;
+}
+
+h5{
+  font-size: 1.1em;
+  font-weight: 500;
+}
+
+h6{
+  font-size: 0.8em;
+  font-weight: 500;
+}
+
+a{
+  font-size: 1em;
+  text-decoration: none;
+}
+
+li{
+  list-style: none;
+}
+
+p{
+  font-size: 1em;
+}
+
+input{
+  display: block;
+}
+

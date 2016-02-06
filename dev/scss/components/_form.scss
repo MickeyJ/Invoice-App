@@ -1,0 +1,23 @@
+
+form{
+  width: 20em;
+  margin: 0 auto;
+}
+
+input[name], textarea[name]{
+  width: 20em;
+}
+
+textarea{
+  resize: none;
+}
+
+.box-btn{
+  display: block;
+  padding: 0.5em;
+  margin: 0 auto;
+  position: absolute;
+  bottom: 2%;
+  left: 45%;
+
+}
